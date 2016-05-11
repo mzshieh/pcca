@@ -1,1 +1,1 @@
-# pcca
+# Programming Contest Club @ National Chiao Tung University
